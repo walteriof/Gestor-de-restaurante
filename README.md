@@ -1,5 +1,8 @@
 ## Descripción: 
 Simula un sistema de facturación, elaborado en python con la librería tkinter que simula la caja de un restaurant, donde podrás cargar el consumo de los clientes, calcular el total, generar un ticket y guardarlo en un archivo .txt, además de utilizar la calculadora.
+## Autor:
+**Walter Damián Frenguelli**
+* [LinkedIn] (https://www.linkedin.com/in/walter-dami%C3%A1n-frenguelli-49b804152/)
 ## Instalación:
 - Puedes descargar el código y probarlo en tu IDE.
 ## Licencia: 
